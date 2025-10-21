@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap');
+
 *{
     margin: 0;
     padding: 0;
@@ -105,4 +105,5 @@ section a{
 .sign-up-link a{
     color: #000;
     font-weight: 600;
+
 }
